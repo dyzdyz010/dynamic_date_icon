@@ -7,7 +7,7 @@ Originally for [Notion](https://www.notion.so/)'s *Icon from Link*, but it's jus
 
 **Link used:** [http://icon.hemifuture.cn/?date=20210211](http://icon.hemifuture.cn/?date=20210211)
 
-![](http://icon.hemifuture.cn/?date=20210211)
+<img src="http://icon.hemifuture.cn/?date=20210211" width=256>
 
 # Usage
 
